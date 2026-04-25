@@ -190,9 +190,9 @@ This project is licensed under the MIT License.
 <h2>👨‍💻 Author</h2>
 
 <p>
-Built by <strong>Your Name</strong>
+Built by <strong>Rishav Patel</strong>
 </p>
 
 <p>
-GitHub: <a href="https://github.com/your-username">https://github.com/your-username</a>
+GitHub: <a href="https://github.com/RishavPatel1">https://github.com/RishavPatel1</a>
 </p>
