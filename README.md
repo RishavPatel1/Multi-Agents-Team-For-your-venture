@@ -182,7 +182,7 @@ Contributions are welcome. You can fork this repository, create a new branch, ma
 <h2>📄 License</h2>
 
 <p>
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0.
 </p>
 
 ---
